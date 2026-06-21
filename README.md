@@ -55,8 +55,8 @@
 [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](#)
 
 </p>
-<p align="center">
 ## 📊 GitHub Stats
+<p align="center">
   
 [![](https://github-readme-stats.vercel.app/api?username=gparedesvalencia2022&show_icons=true&theme=tokyonight)](#)
 
