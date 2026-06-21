@@ -62,4 +62,21 @@
 - 😄 Pronoms : il/lui
 
 - ⚡ Fun fact : carrière commencée avec des architectures multicouches traditionnelles et évoluée vers les microservices et le cloud.
-``
+
+![🇪🇸 Español](https://img.shields.io/badge/Perfil_Espa%C3%B1ol-EA4335?style=for-the-badge&logo=readthedocs&logoColor=white)
+
+- 🔭 Actualmente estoy trabajando en proyectos de modernización e integración de aplicaciones empresariales utilizando tecnologías .NET.
+
+- 🌱 Actualmente estoy fortaleciendo mis habilidades en computación en la nube (Azure), prácticas DevOps y frameworks frontend modernos como React y Angular.
+
+- 👯 Estoy abierto a colaborar en proyectos backend .NET, APIs, microservicios o aplicaciones full-stack.
+
+- 🤔 Estoy interesado en profundizar mis conocimientos en arquitectura cloud avanzada, automatización DevOps y sistemas distribuidos escalables.
+
+- 💬 Puedes preguntarme sobre C#, ASP.NET MVC, .NET Core, SQL Server, desarrollo web e integración de sistemas.
+
+- 📫 Cómo contactarme: a través de GitHub o por correo electrónico (disponible en mi perfil).
+
+- 😄 Pronombres: él
+
+- ⚡ Dato curioso: comencé trabajando con arquitecturas multicapa tradicionales y evolucioné hacia microservicios y entornos cloud.
