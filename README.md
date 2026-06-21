@@ -6,9 +6,9 @@
   
 <p align="center">
 
-![.NET Developer](https://img.shields.io/badge/.NET_Developer-0056D2?style=for-the-badge&logo=dotnet&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-0056D2?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-0056D2?style=for-the-badge&logo=githubactions&logoColor=white)
+[![.NET Developer](https://img.shields.io/badge/.NET_Developer-0056D2?style=for-the-badge&logo=dotnet&logoColor=white)](#)
+[![Cloud](https://img.shields.io/badge/Cloud-0056D2?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+[![DevOps](https://img.shields.io/badge/DevOps-0056D2?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 </p>
 
 </p>
@@ -31,30 +31,30 @@
 <p align="center">
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](#)
+[![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](#)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](#)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
 
-![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](#)
 
 </p>
 
 
-![🇬🇧 English](https://img.shields.io/badge/English_Profile-0056D2?style=for-the-badge&logo=readthedocs&logoColor=white)
+[![🇬🇧 English](https://img.shields.io/badge/English_Profile-0056D2?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
 - 🔭 I’m currently working on enterprise application modernization and integration projects using .NET technologies.
 
 - 🌱 I’m currently learning and improving my skills in Cloud computing (Azure), DevOps practices, and modern frontend frameworks like React and Angular.
@@ -71,7 +71,7 @@
 
 - ⚡ Fun fact: Started with traditional multi-layer architectures and evolved into modern microservices and cloud-based systems.
 
-![🇫🇷 Français](https://img.shields.io/badge/Profil_Français-0056D2?style=for-the-badge&logo=readthedocs&logoColor=white)
+[![🇫🇷 Français](https://img.shields.io/badge/Profil_Français-0056D2?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
 
 - 🔭 Je travaille actuellement sur des projets de modernisation et d’intégration d’applications d’entreprise avec les technologies .NET.
 
@@ -89,7 +89,7 @@
 
 - ⚡ Fun fact : carrière commencée avec des architectures multicouches traditionnelles et évoluée vers les microservices et le cloud.
 
-![🇪🇸 Español](https://img.shields.io/badge/Perfil_Espa%C3%B1ol-0056D2?style=for-the-badge&logo=readthedocs&logoColor=white)
+[![🇪🇸 Español](https://img.shields.io/badge/Perfil_Espa%C3%B1ol-0056D2?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
 
 - 🔭 Actualmente estoy trabajando en proyectos de modernización e integración de aplicaciones empresariales utilizando tecnologías .NET.
 
