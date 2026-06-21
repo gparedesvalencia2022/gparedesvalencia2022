@@ -6,9 +6,10 @@
   
 <p align="center">
 
-https://img.shields.io/badge/.NET_Developer-0056D2?style=for-the-badge&logo=dotnet&logoColor=white
-https://img.shields.io/badge/Cloud-0A66C2?style=for-the-badge&logo=microsoftazure&logoColor=white
-https://img.shields.io/badge/DevOps-222222?style=for-the-badge&logo=githubactions&logoColor=white
+![.NET Developer](https://img.shields.io/badge/.NET_Developer-0056D2?style=for-the-badge&logo=dotnet&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-0A66C2?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-222222?style=for-the-badge&logo=githubactions&logoColor=white)
+</p>
 
 </p>
 
@@ -27,7 +28,7 @@ https://img.shields.io/badge/DevOps-222222?style=for-the-badge&logo=githubaction
 
 
 
-[## 🇬🇧 English](https://img.shields.io/badge/English_Profile-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white)
+![🇬🇧 English](https://img.shields.io/badge/English_Profile-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white)
 - 🔭 I’m currently working on enterprise application modernization and integration projects using .NET technologies.
 
 - 🌱 I’m currently learning and improving my skills in Cloud computing (Azure), DevOps practices, and modern frontend frameworks like React and Angular.
@@ -44,7 +45,7 @@ https://img.shields.io/badge/DevOps-222222?style=for-the-badge&logo=githubaction
 
 - ⚡ Fun fact: Started with traditional multi-layer architectures and evolved into modern microservices and cloud-based systems.
 
-[## 🇫🇷 Français](https://img.shields.io/badge/Profil_Français-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white)
+![🇫🇷 Français](https://img.shields.io/badge/Profil_Français-0078D4?style=for-the-badge&logo=readthedocs&logoColor=whit
 
 - 🔭 Je travaille actuellement sur des projets de modernisation et d’intégration d’applications d’entreprise avec les technologies .NET.
 
