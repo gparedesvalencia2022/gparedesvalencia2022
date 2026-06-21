@@ -6,9 +6,13 @@
   <b>.NET Developer | Cloud | DevOps</b>
 </p>
 
-- 🇬🇧 English: CVs/CV_public_pro_en.pdf
-- 🇫🇷 Français: CVs/CV_public_pro_fr.pdf
-- 🇪🇸 Español: CVs/CV_public_pro_es.pdf
+## 📄 Resume
+
+<p>
+  🇬🇧 <a href="CVs/CV_public_pro_en.pdf">English CV</a><br/>
+  🇫🇷 <a href="CVs/CV_public_pro_fr.pdf">CV Français</a><br/>
+  🇪🇸 <a href="CVs/CV_public_pro_es.pdf">CV Español</a>
+</p>
 
 
 ## 🇬🇧 English
