@@ -1,7 +1,9 @@
 ## Bonjour / Hello 👋
 
 <p align="center">
-  <img src="profile.png" alt="profile" width="250"/>
+  <img src="profile.png" alt="profile" width="250"/>  
+<br/>
+  <b>.NET Developer | Cloud | DevOps</b>
 </p>
 
 
