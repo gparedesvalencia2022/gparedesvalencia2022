@@ -1,5 +1,10 @@
 ## Bonjour / Hello 👋
 
+<p align="center">
+  profile.png
+</p>
+
+
 ## 🇬🇧 English
 - 🔭 I’m currently working on enterprise application modernization and integration projects using .NET technologies.
 
