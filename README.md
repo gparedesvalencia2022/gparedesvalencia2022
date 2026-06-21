@@ -1,7 +1,7 @@
 ## Bonjour / Hello 👋
 
 <p align="center">
-  profile.png
+  <img src="profile.png" alt="profile" width="250"/>
 </p>
 
 
