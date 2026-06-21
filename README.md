@@ -35,6 +35,7 @@
 ## 🚀 Technologies I Use
 
 <p align="center">
+  
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](#)
 [![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](#)
@@ -61,13 +62,39 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
+  
 https://github-readme-stats.vercel.app/api?username=gparedesvalencia2022&show_icons=true&theme=tokyonight
-
 https://github-readme-stats.vercel.app/api/top-langs/?username=gparedesvalencia2022&layout=compact&theme=tokyonight
 
 </p>
 
+## 🚀 Featured Projects
+
+### 🔹 Enterprise Application (.NET MVC)
+- Development of scalable enterprise applications using ASP.NET MVC
+- Implementation of clean architecture and layered design
+- Integration with SQL Server and REST APIs
+
+---
+
+### 🔹 Microservices Architecture (.NET Core)
+- Development of microservices using .NET Core
+- API-first approach with RESTful services
+- Integration with frontend frameworks (React / Angular)
+
+---
+
+### 🔹 Cloud & DevOps (Azure)
+- CI/CD pipeline implementation using Azure DevOps
+- Containerization with Docker and orchestration with Kubernetes
+- Deployment of applications in cloud environments
+
+---
+
+### 🔹 Full-stack Development
+- Frontend development with HTML, CSS, JavaScript, bootstrap
+- Experience integrating modern frameworks (React / Angular)
+- Full lifecycle development from backend to UI
 
 [![🇬🇧 English](https://img.shields.io/badge/English_Profile-0056D2?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
 - 🔭 I’m currently working on enterprise application modernization and integration projects using .NET technologies.
