@@ -2,23 +2,20 @@
 
 <p align="center">
   <img src="profile.png" alt="profile" width="250"/>  
-<br/>
-
-
-<h3 align="center">
-🚀 Building scalable enterprise solutions with .NET & Cloud
-</h3>
-
+  <br/>
   
-<p align="center">
-
-[![.NET Developer](https://img.shields.io/badge/.NET_Developer-0056D2?style=for-the-badge&logo=dotnet&logoColor=white)](#)
-[![Cloud](https://img.shields.io/badge/Cloud-0056D2?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
-[![DevOps](https://img.shields.io/badge/DevOps-0056D2?style=for-the-badge&logo=githubactions&logoColor=white)](#)
-</p>
-
-</p>
-
+  
+  <h3 align="center">
+  🚀 Building scalable enterprise solutions with .NET & Cloud
+  </h3>
+  
+    
+  <p align="center">
+  
+  [![.NET Developer](https://img.shields.io/badge/.NET_Developer-0056D2?style=for-the-badge&logo=dotnet&logoColor=white)](#)
+  [![Cloud](https://img.shields.io/badge/Cloud-0056D2?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+  [![DevOps](https://img.shields.io/badge/DevOps-0056D2?style=for-the-badge&logo=githubactions&logoColor=white)](#)
+  </p> 
 </p>
 
 ## 📄 Resume
@@ -58,15 +55,13 @@
 [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](#)
 
 </p>
-
+<p align="center">
 ## 📊 GitHub Stats
-
-
-
+  
 [![](https://github-readme-stats.vercel.app/api?username=gparedesvalencia2022&show_icons=true&theme=tokyonight)](#)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=gparedesvalencia2022&layout=compact&theme=tokyonight)](#)
-
+</p>
 
 ## 🚀 Featured Projects
 
