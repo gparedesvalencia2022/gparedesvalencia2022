@@ -6,11 +6,6 @@
   
 <p align="center">
 
-
-
-  .NET Developer<img src="https://img.shields.io/badge/.NET_Developer-0056D2?style=for-the-badge&logo=dotnet&logoColor=white"/>
-
-
 ![.NET Developer](https://img.shields.io/badge/.NET_Developer-0056D2?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-0056D2?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-0056D2?style=for-the-badge&logo=githubactions&logoColor=white)
