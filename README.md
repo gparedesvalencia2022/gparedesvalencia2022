@@ -6,6 +6,10 @@
   <b>.NET Developer | Cloud | DevOps</b>
 </p>
 
+- 🇬🇧 English: CVs/CV_public_pro_en.pdf
+- 🇫🇷 Français: CVs/CV_public_pro_fr.pdf
+- 🇪🇸 Español: CVs/CV_public_pro_es.pdf
+
 
 ## 🇬🇧 English
 - 🔭 I’m currently working on enterprise application modernization and integration projects using .NET technologies.
