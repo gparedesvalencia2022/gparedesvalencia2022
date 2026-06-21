@@ -8,11 +8,15 @@
 
 ## 📄 Resume
 
-<p> 
-  🇬🇧 <a href="CVs/CV_public_pro_en.pdf">Download English CV</a><br/>
-  🇫🇷 <a href="CVs/CV_public_pro_fr.pdf">Télécharger CV Français</a><br/>
-  🇪🇸 <a href="CVs/CV_public_pro_es.pdf">Descargar CV Español</a>
+
+<p align="center">
+
+[![English CV](https://img.shields.io/badge/CV-English-blue?style=for-the-badge&logo=readthedocs)](CVs/CV_public_pro_en.pdf)
+[![CV Français](https://img.shields.io/badge/CV-Français-blue?style=for-the-badge&logo=readthedocs)](CVs/CV_public_pro_fr.pdf)
+[![CV Español](https://img.shields.io/badge/CV-Español-blue?style=for-the-badge&logo=readthedocs)](CVs/CV_public_pro_es.pdf)
+
 </p>
+
 
 
 ## 🇬🇧 English
