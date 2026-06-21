@@ -45,7 +45,7 @@
 
 - ⚡ Fun fact: Started with traditional multi-layer architectures and evolved into modern microservices and cloud-based systems.
 
-![🇫🇷 Français](https://img.shields.io/badge/Profil_Français-0078D4?style=for-the-badge&logo=readthedocs&logoColor=whit
+![🇫🇷 Français](https://img.shields.io/badge/Profil_Français-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white)
 
 - 🔭 Je travaille actuellement sur des projets de modernisation et d’intégration d’applications d’entreprise avec les technologies .NET.
 
