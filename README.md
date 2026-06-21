@@ -8,11 +8,7 @@
 
 ## 📄 Resume
 
-<p>
-  🇬🇧 <a href="CVs/CV_public_pro_en.pdf">English CV</a><br/>
-  🇫🇷 <a href="CVs/CV_public_pro_fr.pdf">CV Français</a><br/>
-  🇪🇸 <a href="CVs/CV_public_pro_es.pdf">CV Español</a>
-</p>
+- 🇬🇧 CV raw.githubusercontent.com/gparedesvalencia2022/gparedesvalencia2022/main/CVs/CV_public_pro_en.pdf
 
 
 ## 🇬🇧 English
