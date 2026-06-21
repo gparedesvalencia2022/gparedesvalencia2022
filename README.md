@@ -3,6 +3,12 @@
 <p align="center">
   <img src="profile.png" alt="profile" width="250"/>  
 <br/>
+
+
+<h3 align="center">
+🚀 Building scalable enterprise solutions with .NET & Cloud
+</h3>
+
   
 <p align="center">
 
@@ -29,7 +35,6 @@
 ## 🚀 Technologies I Use
 
 <p align="center">
-
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](#)
 [![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](#)
@@ -50,6 +55,16 @@
 
 [![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](#)
+
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+https://github-readme-stats.vercel.app/api?username=gparedesvalencia2022&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=gparedesvalencia2022&layout=compact&theme=tokyonight
 
 </p>
 
