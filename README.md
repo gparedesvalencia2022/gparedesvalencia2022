@@ -8,10 +8,10 @@
 
 ## 📄 Resume
 
-<p>
-  🇬🇧 <a href="CVs/CV_public_pro_en.pdf">English Curriculum</a><br/>
-  🇫🇷 <a href="CVs/CV_public_pro_fr.pdf">Français Curriculum</a><br/>
-  🇪🇸 <a href="CVs/CV_public_pro_es.pdf">Español Curriculum</a>
+<p> 
+  🇬🇧 <a href="CVs/CV_public_pro_en.pdf">Download English CV</a><br/>
+  🇫🇷 <a href="CVs/CV_public_pro_fr.pdf">Télécharger CV Français</a><br/>
+  🇪🇸 <a href="CVs/CV_public_pro_es.pdf">Descargar CV Español</a>
 </p>
 
 
