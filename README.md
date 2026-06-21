@@ -6,14 +6,6 @@
   
 <p align="center">
 
-https://img.shields.io/badge/.NET_Developer-0056D2?style=for-the-badge&logo=dotnet&logoColor=white
-https://img.shields.io/badge/Cloud-0056D2?style=for-the-badge&logo=microsoftazure&logoColor=white
-https://img.shields.io/badge/DevOps-0056D2?style=for-the-badge&logo=githubactions&logoColor=white
-
-</p>
-
-<p align="center">
-
 ![.NET Developer](https://img.shields.io/badge/.NET_Developer-0056D2?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-0056D2?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-0056D2?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -34,6 +26,32 @@ https://img.shields.io/badge/DevOps-0056D2?style=for-the-badge&logo=githubaction
 
 </p>
 
+## 🚀 Technologies I Use
+
+<p align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)(#)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+</p>
 
 
 ![🇬🇧 English](https://img.shields.io/badge/English_Profile-0056D2?style=for-the-badge&logo=readthedocs&logoColor=white)
