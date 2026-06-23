@@ -1,10 +1,5 @@
 ## Bonjour / Hello 👋
-<p align="center">
-  ⚡ Ctrl + Click to open my website in a new tab
-  <a  href="https://portafolio-dotnet-react.onrender.com/">
-    <img src="https://img.shields.io/badge/🚀%20CTRL%20CLICK%20TO%20OPEN%20MY%20WEBSITE%20IN%20A%20NEW%20TAB-0056D2?style=for-the-badge"/>
-  </a>
-</p>
+
 
 <p align="center">
   <img src="profile.png" alt="profile" width="250"/>  
@@ -18,9 +13,11 @@
 
 ## 🌐 Live Demo
 
-<a href="https://portafolio-dotnet-react.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit-Portfolio-0056D2?style=for-the-badge&logo=react&logoColor=white"/>
-</a>
+<p>  
+  <a  href="https://portafolio-dotnet-react.onrender.com/">
+    <img src="https://img.shields.io/badge/🚀%20CTRL%20CLICK%20TO%20OPEN%20MY%20WEBSITE%20IN%20A%20NEW%20TAB-0056D2?style=for-the-badge"/>
+  </a>
+</p>
 
     
   <p align="center">
