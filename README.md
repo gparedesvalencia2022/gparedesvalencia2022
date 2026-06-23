@@ -1,9 +1,7 @@
 ## Bonjour / Hello 👋
 <p align="center">
   ⚡ Ctrl + Click to open my website in a new tab
-</p>
-<p align="center">
-  <a href="https://portafolio-dotnet-react.onrender.com/">
+  <a  href="https://portafolio-dotnet-react.onrender.com/">
     <img src="https://img.shields.io/badge/🚀%20LIVE%20PORTFOLIO-CLICK%20ME-0056D2?style=for-the-badge"/>
   </a>
 </p>
