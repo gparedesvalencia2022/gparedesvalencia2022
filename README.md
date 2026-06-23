@@ -1,6 +1,6 @@
 ## Bonjour / Hello 👋
 <p align="center">
-  ⚡ Ctrl + Click / Cmd + Click to open in a new tab
+  ⚡ Ctrl + Click to open my website in a new tab
 </p>
 <p align="center">
   <a href="https://portafolio-dotnet-react.onrender.com/">
