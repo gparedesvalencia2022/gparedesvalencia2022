@@ -1,4 +1,9 @@
 ## Bonjour / Hello 👋
+<p align="center">
+  <a href="https://portafolio-dotnet-react.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20PORTFOLIO-CLICK%20HERE-00ff88?style=for-the-badge"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="profile.png" alt="profile" width="250"/>  
@@ -13,7 +18,7 @@
 ## 🌐 Live Demo
 
 <a href="https://portafolio-dotnet-react.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit-Portfolio-00ff88?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visit-Portfolio-0056D2?style=for-the-badge&logo=react&logoColor=white"/>
 </a>
 
     
