@@ -1,8 +1,12 @@
 ## Bonjour / Hello 👋
 <p align="center">
-  <a href="https://portafolio-dotnet-react.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20LIVE%20PORTFOLIO-CLICK%20HERE-0056D2?style=for-the-badge"/>
+  <a href="https://portafolio-dotnet-react.onrender.com/">
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20PORTFOLIO-CLICK%20ME-0056D2?style=for-the-badge"/>
   </a>
+</p>
+
+<p align="center">
+  (Tip: Ctrl + Click to open in a new tab)
 </p>
 
 <p align="center">
