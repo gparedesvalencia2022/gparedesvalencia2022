@@ -14,7 +14,7 @@
 ## 🌐 Live Demo
 
 <p>  
-  <a  href="https://portafolio-dotnet-react.onrender.com/">
+  <a  href="https://gparedesdotnet.onrender.com/">
     <img src="https://img.shields.io/badge/🚀%20CTRL%20CLICK%20TO%20OPEN%20MY%20WEBSITE%20IN%20A%20NEW%20TAB-0056D2?style=for-the-badge"/>
   </a>
 </p>
