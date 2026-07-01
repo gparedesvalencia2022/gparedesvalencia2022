@@ -19,6 +19,9 @@
   </a>
 </p>
 
+<p>
+[![Codewars Profile](https://www.codewars.com/users/gparedesvalencia2022/badges/large)](#)   
+</p>
     
   <p align="center">
   
