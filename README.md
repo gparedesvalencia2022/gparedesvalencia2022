@@ -76,7 +76,7 @@
 
 ## 📊 Codewars Stats
 
-<p align="center">
+<p align="left">
   <a href="https://www.codewars.com/users/gparedesvalencia2022" target="_blank">
     <img src="https://www.codewars.com/users/gparedesvalencia2022/badges/large" alt="Codewars Profile" />
   </a>
