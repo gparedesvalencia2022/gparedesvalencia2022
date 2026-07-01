@@ -69,9 +69,9 @@
 
 <p align="center">
   
-[![](https://github-readme-stats.vercel.app/api?username=gparedesvalencia2022&show_icons=true&theme=tokyonight)](#)
+[![](https://github-readme-stats-eight-theta.vercel.app/api?username=gparedesvalencia2022&show_icons=true&theme=tokyonight)](#)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gparedesvalencia2022&layout=compact&theme=tokyonight)](#)
+[![](github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gparedesvalencia2022&layout=compact&theme=tokyonight)](#)
 
 [![Codewars Profile](https://www.codewars.com/users/gparedesvalencia2022/badges/large)](#)   
 
