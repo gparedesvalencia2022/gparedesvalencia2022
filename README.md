@@ -71,12 +71,15 @@
   
 [![](https://github-readme-stats-eight-theta.vercel.app/api?username=gparedesvalencia2022&show_icons=true&theme=tokyonight)](#)
 
-[![](github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gparedesvalencia2022&layout=compact&theme=tokyonight)](#)
+[![](https:github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gparedesvalencia2022&layout=compact&theme=tokyonight)](#)
 </p>
 
 ## 📊 Codewars Stats
-<p>
-  [![Codewars Profile](https://www.codewars.com/users/gparedesvalencia2022/badges/large)](#)   
+
+<p align="center">
+  <a href="https://www.codewars.com/users/gparedesvalencia2022" target="_blank">
+    <img src="https://www.codewars.com/users/gparedesvalencia2022/badges/large" alt="Codewars Profile" />
+  </a>
 </p>
 
 ## 🚀 Featured Projects
